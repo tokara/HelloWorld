@@ -5,7 +5,6 @@
  */
 package helloworld;
 
-import java.util.Scanner;
 
 /**
  *
@@ -17,7 +16,7 @@ public class Helloworld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        
         System.out.println("Hello World");// TODO code application logic here
     }
     
